@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothMonitor</string>
+    <string name="app_connectBluetooth">连接监护仪</string>
+    <string name="app_closeBluetooth">断开蓝牙连接</string>
+</resources>
